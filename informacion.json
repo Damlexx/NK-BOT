@@ -1,6 +1,6 @@
 {
-	"prefijo": ".",
-	"BotControlador": "525632735612@s.whatsapp.net",
+	"prefijo": "/",
+	"BotControlador": "525573350804",
         "NumeroBot": "525632735612",
 	"CoCreador": "Damian",
 	"VCardX": "+525632735612",
@@ -10,3 +10,4 @@
 	"LimiteEnGrupos": "257",
 	"LimiteComandos": "9999999999",
 	"TusRedesSociales": "*~>[Redes sociales...]*\n\n~>[Instagram:https://instagram.com/araghon.damory?utm_medium=copy_link ]
+}
